@@ -1,0 +1,12 @@
+opencv-python
+time
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+glob
+tensorflow
+Keras
+PILLOW
+db-sqlite3
